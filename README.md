@@ -1,0 +1,1 @@
+This program was made for my computer in mind as a fun programming project. However, if you find something useful in the source code, grab the repo and compile everything for your computer.
